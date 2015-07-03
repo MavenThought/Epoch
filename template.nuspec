@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>@project@</id>
+		<version>@build.number@</version>
+		<authors>@authors@</authors>
+		<licenseUrl>http://github.com/amirci/mt_commons</licenseUrl>
+		<projectUrl>http://github.com/amirci/mt_commons</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>@description@</description>
+		<releaseNotes>@summary@</releaseNotes>
+		<copyright>Copyright MavenThought Inc. 2014</copyright>
+	</metadata>
+</package>
