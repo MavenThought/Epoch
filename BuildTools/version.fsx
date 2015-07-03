@@ -68,7 +68,7 @@ module Version =
     )
 
     Target "Version:Set" (fun _ ->
-        CreateCSharpAssemblyInfo  "./src/SolutionAssemblyVersionInfo.cs" attributes
+        CreateCSharpAssemblyInfo  (srcDir @@ "GlobalAssemblyInfo.cs") attributes
     )
 
     [Major; Minor; Revision] |> Seq.iter (fun p ->
