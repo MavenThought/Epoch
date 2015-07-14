@@ -1,1 +1,5 @@
-Read the [[wiki:https://github.com/amirci/mt_commons/wiki]] for more information.
+Utilities to create dates and spans with a _fluent_ style.
+
+DateRange class to represent ranges of dates that can be enumerated.
+
+Read the [[wiki:https://github.com/maventhought/epoch/wiki]] for more information.
